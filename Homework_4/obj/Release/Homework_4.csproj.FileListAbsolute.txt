@@ -1,0 +1,14 @@
+F:\Homework_4\Homework_4\bin\Release\Homework_4.exe.config
+F:\Homework_4\Homework_4\bin\Release\Homework_4.exe
+F:\Homework_4\Homework_4\bin\Release\Homework_4.pdb
+F:\Homework_4\Homework_4\obj\Release\Homework_4.csproj.AssemblyReference.cache
+F:\Homework_4\Homework_4\obj\Release\Interop.WMPLib.dll
+F:\Homework_4\Homework_4\obj\Release\Homework_4.csproj.ResolveComReference.cache
+F:\Homework_4\Homework_4\obj\Release\Homework_4.MainForm.resources
+F:\Homework_4\Homework_4\obj\Release\Homework_4.MapleMessageBox.resources
+F:\Homework_4\Homework_4\obj\Release\Homework_4.MapleMessageBoxResource.resources
+F:\Homework_4\Homework_4\obj\Release\Homework_4.Properties.Resources.resources
+F:\Homework_4\Homework_4\obj\Release\Homework_4.csproj.GenerateResource.cache
+F:\Homework_4\Homework_4\obj\Release\Homework_4.csproj.CoreCompileInputs.cache
+F:\Homework_4\Homework_4\obj\Release\Homework_4.exe
+F:\Homework_4\Homework_4\obj\Release\Homework_4.pdb
